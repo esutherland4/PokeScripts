@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+  <rect width="816" height="1056" fill="white"/>
+  <text x="408" y="34" text-anchor="middle"
+        font-family="Arial Black,Impact,Arial" font-size="22" font-weight="900" fill="#111">🐧 PIPLUP — Puppet Template</text>
+  <text x="408" y="52" text-anchor="middle"
+        font-family="Arial" font-size="9.5" fill="#888">Trace each shape onto the matching colour paper · cut out · layer onto a craft stick</text>
+  <line x1="24" y1="62" x2="792" y2="62" stroke="#CCC" stroke-width="1.5"/>
+  <text x="408" y="77" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">LARGE  (3")  —  trace onto DARK BLUE paper</text>
+  <ellipse cx="205" cy="278" rx="148" ry="162" fill="#3A5A9F" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="126" y="444" width="159" height="16" rx="5" fill="#3A5A9F" opacity="0.28" stroke="#3A5A9F" stroke-width="1.2"/>
+  <text x="205" y="455.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK BLUE — Body  (3")</text>
+  <ellipse cx="590" cy="258" rx="138" ry="138" fill="#3A5A9F" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="504" y="400" width="172" height="16" rx="5" fill="#3A5A9F" opacity="0.28" stroke="#3A5A9F" stroke-width="1.2"/>
+  <text x="590" y="411.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK BLUE — Head  (2.8")</text>
+  <line x1="28" y1="468" x2="788" y2="468" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  face (light blue), belly (white), beak (yellow), feet, head dots</text>
+  <ellipse cx="205" cy="600" rx="110" ry="138" fill="#7AAAD4" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="100" y="742" width="210" height="16" rx="5" fill="#7AAAD4" opacity="0.28" stroke="#7AAAD4" stroke-width="1.2"/>
+  <text x="205" y="753.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">LIGHT BLUE — Face  (2.3"×2.8")</text>
+  <ellipse cx="205" cy="645" rx="75" ry="95" fill="#F8FBFF" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="154" y="744" width="101" height="16" rx="5" fill="#F8FBFF" opacity="0.28" stroke="#F8FBFF" stroke-width="1.2"/>
+  <text x="205" y="755.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">WHITE — Belly</text>
+  <polygon points="550,580 610,580 580,618" fill="#FFD84D" stroke="#222" stroke-width="2.5"/>
+  <rect x="472" y="624" width="216" height="16" rx="5" fill="#FFD84D" opacity="0.28" stroke="#FFD84D" stroke-width="1.2"/>
+  <text x="580" y="635.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">YELLOW — Beak  (short triangle)</text>
+  <ellipse cx="685" cy="548" rx="18" ry="18" fill="#7AAAD4" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="735" cy="548" rx="18" ry="18" fill="#7AAAD4" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="618" y="570" width="184" height="16" rx="5" fill="#7AAAD4" opacity="0.28" stroke="#7AAAD4" stroke-width="1.2"/>
+  <text x="710" y="581.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">LIGHT BLUE — Head Dots  ×2</text>
+  <ellipse cx="680" cy="632" rx="38" ry="20" fill="#FFD84D" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="755" cy="632" rx="38" ry="20" fill="#FFD84D" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="655" y="656" width="127" height="16" rx="5" fill="#FFD84D" opacity="0.28" stroke="#FFD84D" stroke-width="1.2"/>
+  <text x="718" y="667.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">YELLOW — Feet  ×2</text>
+  <line x1="28" y1="742" x2="788" y2="742" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="758" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">SMALL  —  eyes</text>
+  <ellipse cx="105" cy="836" rx="26" ry="30" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="205" cy="836" rx="26" ry="30" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="95" y="870" width="120" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="155" y="881.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Eyes  ×2</text>
+  <line x1="28" y1="892" x2="788" y2="892" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="902" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">ASSEMBLED — how the pieces look when put together</text>
+  <rect x="300" y="912" width="216" height="128" rx="6" fill="#F8F8F8" stroke="#DDD" stroke-width="1.5"/>
+  <ellipse cx="408" cy="990" rx="33" ry="36" fill="#3A5A9F" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="980" rx="22" ry="28" fill="#7AAAD4" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="990" rx="14" ry="20" fill="#F8FBFF" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="952" rx="30" ry="30" fill="#3A5A9F" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="948" rx="20" ry="24" fill="#7AAAD4" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <polygon points="404,956 412,956 408,964" fill="#FFD84D" stroke="#222" stroke-width="2.5"/>
+  <ellipse cx="400" cy="946" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="416" cy="946" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+
+  <text x="408" y="1044" text-anchor="middle"
+        font-family="Arial" font-size="7.5" fill="#CCC">Print at 100% · 96 px = 1 inch · Pokemon puppet craft</text>
+</svg>

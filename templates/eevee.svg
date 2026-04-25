@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+  <rect width="816" height="1056" fill="white"/>
+  <text x="408" y="34" text-anchor="middle"
+        font-family="Arial Black,Impact,Arial" font-size="22" font-weight="900" fill="#111">🍂 EEVEE — Puppet Template</text>
+  <text x="408" y="52" text-anchor="middle"
+        font-family="Arial" font-size="9.5" fill="#888">Trace each shape onto the matching colour paper · cut out · layer onto a craft stick</text>
+  <line x1="24" y1="62" x2="792" y2="62" stroke="#CCC" stroke-width="1.5"/>
+  <text x="408" y="77" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">LARGE  (3-4")  —  trace onto BROWN paper</text>
+  <ellipse cx="205" cy="280" rx="148" ry="168" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="122" y="452" width="165" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="205" y="463.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Body  (3"×3.5")</text>
+  <ellipse cx="588" cy="258" rx="136" ry="136" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="512" y="398" width="152" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="588" y="409.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Head  (2.75")</text>
+  <line x1="28" y1="478" x2="788" y2="478" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="494" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  ears (brown), collar (cream/tan), tail</text>
+  <path d="M 120,522 C 170,589.2   170,675.6   120,714 C 70,675.6   70,589.2   120,522 Z" fill="#8B5828" stroke="#222" stroke-width="2.5"/>
+  <path d="M 238,522 C 288,589.2   288,675.6   238,714 C 188,675.6   188,589.2   238,522 Z" fill="#8B5828" stroke="#222" stroke-width="2.5"/>
+  <rect x="90" y="718" width="178" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="179" y="729.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Ears  ×2  (1"×2")</text>
+  <path d="M 120,551 C 152,603.5   152,671.0   120,701 C 88,671.0   88,603.5   120,551 Z" fill="#F5EDCA" stroke="#222" stroke-width="2.5"/>
+  <path d="M 238,551 C 270,603.5   270,671.0   238,701 C 206,671.0   206,603.5   238,551 Z" fill="#F5EDCA" stroke="#222" stroke-width="2.5"/>
+  <rect x="103" y="706" width="152" height="16" rx="5" fill="#F5EDCA" opacity="0.28" stroke="#F5EDCA" stroke-width="1.2"/>
+  <text x="179" y="717.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Inner Ear  ×2</text>
+  <path d="M 490,518 C 570,510 638,560 638,590 C 638,620 570,662 490,662 C 410,662 342,620 342,590 C 342,560 410,510 490,518 Z" fill="#F5EDCA" stroke="#222" stroke-width="2.5"/>
+  <rect x="388" y="666" width="204" height="16" rx="5" fill="#F5EDCA" opacity="0.28" stroke="#F5EDCA" stroke-width="1.2"/>
+  <text x="490" y="677.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM/TAN — Collar  (3"×1.5")</text>
+  <ellipse cx="730" cy="590" rx="52" ry="75" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="730" cy="630" rx="44" ry="40" fill="#F5EDCA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="644" y="709" width="172" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="730" y="720.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN + CREAM tip — Tail</text>
+  <line x1="28" y1="742" x2="788" y2="742" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="758" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">SMALL  —  eyes, nose</text>
+  <ellipse cx="115" cy="835" rx="34" ry="42" fill="#A87040" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="225" cy="835" rx="34" ry="42" fill="#A87040" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="84" y="881" width="172" height="16" rx="5" fill="#A87040" opacity="0.28" stroke="#A87040" stroke-width="1.2"/>
+  <text x="170" y="892.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Eyes  ×2  (0.7")</text>
+  <ellipse cx="122" cy="830" rx="16" ry="16" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="232" cy="830" rx="16" ry="16" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="110" y="850" width="133" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="177" y="861.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Pupils  ×2</text>
+  <ellipse cx="130" cy="820" rx="7" ry="7" fill="#FFFFFF" stroke="none" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="240" cy="820" rx="7" ry="7" fill="#FFFFFF" stroke="none" stroke-width="2.5" opacity="1"/>
+  <rect x="109" y="833" width="152" height="16" rx="5" fill="#FFFFFF" opacity="0.28" stroke="#FFFFFF" stroke-width="1.2"/>
+  <text x="185" y="844.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">WHITE — Eye Shine  ×2</text>
+  <ellipse cx="350" cy="835" rx="16" ry="11" fill="#A87040" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="303" y="850" width="95" height="16" rx="5" fill="#A87040" opacity="0.28" stroke="#A87040" stroke-width="1.2"/>
+  <text x="350" y="861.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Nose</text>
+  <line x1="28" y1="892" x2="788" y2="892" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="902" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">ASSEMBLED — how the pieces look when put together</text>
+  <rect x="300" y="912" width="216" height="128" rx="6" fill="#F8F8F8" stroke="#DDD" stroke-width="1.5"/>
+  <ellipse cx="408" cy="990" rx="33" ry="37" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="952" rx="30" ry="30" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="980" rx="32" ry="15" fill="#F5EDCA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <path d="M 390,900 C 401,915.4   401,935.2   390,944 C 379,935.2   379,915.4   390,900 Z" fill="#8B5828" stroke="#222" stroke-width="2.5"/>
+  <path d="M 426,900 C 437,915.4   437,935.2   426,944 C 415,935.2   415,915.4   426,900 Z" fill="#8B5828" stroke="#222" stroke-width="2.5"/>
+  <path d="M 390,911 C 397,921.5   397,935.0   390,941 C 383,935.0   383,921.5   390,911 Z" fill="#F5EDCA" stroke="#222" stroke-width="2.5"/>
+  <path d="M 426,911 C 433,921.5   433,935.0   426,941 C 419,935.0   419,921.5   426,911 Z" fill="#F5EDCA" stroke="#222" stroke-width="2.5"/>
+  <ellipse cx="400" cy="945" rx="7" ry="9" fill="#A87040" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="416" cy="945" rx="7" ry="9" fill="#A87040" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="447" cy="1005" rx="11" ry="16" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="447" cy="1016" rx="9" ry="8" fill="#F5EDCA" stroke="#222" stroke-width="2.5" opacity="1"/>
+
+  <text x="408" y="1044" text-anchor="middle"
+        font-family="Arial" font-size="7.5" fill="#CCC">Print at 100% · 96 px = 1 inch · Pokemon puppet craft</text>
+</svg>

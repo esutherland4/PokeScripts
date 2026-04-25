@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+  <rect width="816" height="1056" fill="white"/>
+  <text x="408" y="34" text-anchor="middle"
+        font-family="Arial Black,Impact,Arial" font-size="22" font-weight="900" fill="#111">🌰 CHESPIN — Puppet Template</text>
+  <text x="408" y="52" text-anchor="middle"
+        font-family="Arial" font-size="9.5" fill="#888">Trace each shape onto the matching colour paper · cut out · layer onto a craft stick</text>
+  <line x1="24" y1="62" x2="792" y2="62" stroke="#CCC" stroke-width="1.5"/>
+  <text x="408" y="77" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">LARGE  (3")  —  lower body BROWN, head/helmet DARK GREEN</text>
+  <ellipse cx="205" cy="300" rx="148" ry="148" fill="#8B6028" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="119" y="452" width="172" height="16" rx="5" fill="#8B6028" opacity="0.28" stroke="#8B6028" stroke-width="1.2"/>
+  <text x="205" y="463.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Lower Body  (3")</text>
+  <ellipse cx="590" cy="258" rx="138" ry="138" fill="#2E6E2E" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="472" y="400" width="236" height="16" rx="5" fill="#2E6E2E" opacity="0.28" stroke="#2E6E2E" stroke-width="1.2"/>
+  <text x="590" y="411.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK GREEN — Head / Helmet  (2.8")</text>
+  <line x1="28" y1="468" x2="788" y2="468" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  face (cream), spikes (green), belly (cream)</text>
+  <ellipse cx="205" cy="598" rx="105" ry="128" fill="#FFF5DC" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="90" y="730" width="229" height="16" rx="5" fill="#FFF5DC" opacity="0.28" stroke="#FFF5DC" stroke-width="1.2"/>
+  <text x="205" y="741.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Face / Belly  (2.2"×2.7")</text>
+  <polygon points="502,505 538,505 520,450" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="540,505 576,505 558,445" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="578,505 614,505 596,435" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="616,505 652,505 634,445" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="654,505 690,505 672,450" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <rect x="513" y="520" width="165" height="16" rx="5" fill="#5A9040" opacity="0.28" stroke="#5A9040" stroke-width="1.2"/>
+  <text x="596" y="531.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">GREEN — Head Spikes  ×5</text>
+  <ellipse cx="700" cy="598" rx="38" ry="26" fill="#8B6028" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="775" cy="604" rx="35" ry="24" fill="#8B6028" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="678" y="634" width="120" height="16" rx="5" fill="#8B6028" opacity="0.28" stroke="#8B6028" stroke-width="1.2"/>
+  <text x="738" y="645.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Paws  ×2</text>
+  <line x1="28" y1="742" x2="788" y2="742" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="758" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">SMALL  —  eyes, nose</text>
+  <ellipse cx="105" cy="836" rx="24" ry="28" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="198" cy="836" rx="24" ry="28" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="92" y="868" width="120" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="152" y="879.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Eyes  ×2</text>
+  <ellipse cx="335" cy="834" rx="10" ry="10" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="288" y="848" width="95" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="335" y="859.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Nose</text>
+  <line x1="28" y1="892" x2="788" y2="892" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="902" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">ASSEMBLED — how the pieces look when put together</text>
+  <rect x="300" y="912" width="216" height="128" rx="6" fill="#F8F8F8" stroke="#DDD" stroke-width="1.5"/>
+  <ellipse cx="408" cy="995" rx="33" ry="32" fill="#8B6028" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="952" rx="30" ry="30" fill="#2E6E2E" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="960" rx="22" ry="25" fill="#FFF5DC" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <polygon points="389,940 399,940 394,927" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="396,940 406,940 401,927" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="403,940 413,940 408,927" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="410,940 420,940 415,927" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <polygon points="417,940 427,940 422,927" fill="#5A9040" stroke="#222" stroke-width="2.5"/>
+  <ellipse cx="400" cy="957" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="416" cy="957" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+
+  <text x="408" y="1044" text-anchor="middle"
+        font-family="Arial" font-size="7.5" fill="#CCC">Print at 100% · 96 px = 1 inch · Pokemon puppet craft</text>
+</svg>

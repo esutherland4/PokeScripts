@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+  <rect width="816" height="1056" fill="white"/>
+  <text x="408" y="34" text-anchor="middle"
+        font-family="Arial Black,Impact,Arial" font-size="22" font-weight="900" fill="#111">🌿 TURTWIG — Puppet Template</text>
+  <text x="408" y="52" text-anchor="middle"
+        font-family="Arial" font-size="9.5" fill="#888">Trace each shape onto the matching colour paper · cut out · layer onto a craft stick</text>
+  <line x1="24" y1="62" x2="792" y2="62" stroke="#CCC" stroke-width="1.5"/>
+  <text x="408" y="77" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">LARGE  (3")  —  trace onto GREEN paper</text>
+  <ellipse cx="205" cy="278" rx="158" ry="148" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="138" y="430" width="133" height="16" rx="5" fill="#6DB846" opacity="0.28" stroke="#6DB846" stroke-width="1.2"/>
+  <text x="205" y="441.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">GREEN — Body  (3")</text>
+  <ellipse cx="590" cy="262" rx="130" ry="125" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="517" y="391" width="146" height="16" rx="5" fill="#6DB846" opacity="0.28" stroke="#6DB846" stroke-width="1.2"/>
+  <text x="590" y="402.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">GREEN — Head  (2.7")</text>
+  <line x1="28" y1="468" x2="788" y2="468" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  shell (brown), belly (light green), head twig + sprout</text>
+  <ellipse cx="205" cy="598" rx="142" ry="102" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="126" y="704" width="159" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="205" y="715.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — Shell  (3"×2")</text>
+  <ellipse cx="205" cy="648" rx="115" ry="58" fill="#A8D870" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="116" y="710" width="178" height="16" rx="5" fill="#A8D870" opacity="0.28" stroke="#A8D870" stroke-width="1.2"/>
+  <text x="205" y="721.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">LIGHT GREEN — Belly strip</text>
+  <rect x="572" y="490" width="14" height="60" rx="4" ry="4" fill="#5A3818" stroke="#222" stroke-width="2.5"/>
+  <rect x="480" y="554" width="197" height="16" rx="5" fill="#5A3818" opacity="0.28" stroke="#5A3818" stroke-width="1.2"/>
+  <text x="579" y="565.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK BROWN — Head Twig stick</text>
+  <ellipse cx="579" cy="476" rx="28" ry="40" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="509" y="520" width="140" height="16" rx="5" fill="#6DB846" opacity="0.28" stroke="#6DB846" stroke-width="1.2"/>
+  <text x="579" y="531.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">GREEN — Sprout leaf</text>
+  <rect x="264" y="598" width="332" height="16" rx="5" fill="#8B5828" opacity="0.28" stroke="#8B5828" stroke-width="1.2"/>
+  <text x="430" y="609.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BROWN — draw dividing lines on shell for segments</text>
+  <line x1="28" y1="742" x2="788" y2="742" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="758" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">SMALL  —  eyes</text>
+  <ellipse cx="105" cy="836" rx="24" ry="28" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="195" cy="836" rx="24" ry="28" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="90" y="868" width="120" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="150" y="879.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Eyes  ×2</text>
+  <line x1="28" y1="892" x2="788" y2="892" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="902" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">ASSEMBLED — how the pieces look when put together</text>
+  <rect x="300" y="912" width="216" height="128" rx="6" fill="#F8F8F8" stroke="#DDD" stroke-width="1.5"/>
+  <ellipse cx="408" cy="990" rx="35" ry="32" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="990" rx="30" ry="20" fill="#8B5828" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="952" rx="29" ry="27" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="406" y="922" width="4" height="14" rx="2" ry="2" fill="#5A3818" stroke="#222" stroke-width="2.5"/>
+  <ellipse cx="408" cy="919" rx="7" ry="9" fill="#6DB846" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="400" cy="946" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="416" cy="946" rx="5" ry="7" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+
+  <text x="408" y="1044" text-anchor="middle"
+        font-family="Arial" font-size="7.5" fill="#CCC">Print at 100% · 96 px = 1 inch · Pokemon puppet craft</text>
+</svg>

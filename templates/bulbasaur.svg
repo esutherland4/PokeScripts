@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1056" viewBox="0 0 816 1056">
+  <rect width="816" height="1056" fill="white"/>
+  <text x="408" y="34" text-anchor="middle"
+        font-family="Arial Black,Impact,Arial" font-size="22" font-weight="900" fill="#111">🌿 BULBASAUR — Puppet Template</text>
+  <text x="408" y="52" text-anchor="middle"
+        font-family="Arial" font-size="9.5" fill="#888">Trace each shape onto the matching colour paper · cut out · layer onto a craft stick</text>
+  <line x1="24" y1="62" x2="792" y2="62" stroke="#CCC" stroke-width="1.5"/>
+  <text x="408" y="77" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">LARGE  (3-4")  —  trace onto TEAL / BLUE-GREEN paper</text>
+  <ellipse cx="205" cy="275" rx="188" ry="158" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="132" y="437" width="146" height="16" rx="5" fill="#5BBFAA" opacity="0.28" stroke="#5BBFAA" stroke-width="1.2"/>
+  <text x="205" y="448.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">TEAL — Body  (4"×3")</text>
+  <ellipse cx="585" cy="255" rx="142" ry="138" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="522" y="397" width="127" height="16" rx="5" fill="#5BBFAA" opacity="0.28" stroke="#5BBFAA" stroke-width="1.2"/>
+  <text x="585" y="408.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">TEAL — Head  (3")</text>
+  <line x1="28" y1="470" x2="788" y2="470" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  bulb assembly (dark green) · spots ×4 · eyes ×2 (red) · belly (cream)</text>
+  <path d="M 168,718 C 232,718 270,694 270,656 C 270,620 254,578 224,548 C 204,528 182,514 168,506 C 154,514 132,528 112,548 C 82,578 66,620 66,656 C 66,694 104,718 168,718 Z" fill="#2E7A2E" stroke="#222" stroke-width="2.5"/>
+  <path d="M 156,510 C 109,582 111,672 144,716" fill="none" stroke="#174F17" stroke-width="1.8"/>
+  <path d="M 162,510 C 140,582 140,672 157,716" fill="none" stroke="#174F17" stroke-width="1.8"/>
+  <path d="M 168,510 C 168,582 168,672 168,716" fill="none" stroke="#174F17" stroke-width="1.8"/>
+  <path d="M 174,510 C 196,582 196,672 179,716" fill="none" stroke="#174F17" stroke-width="1.8"/>
+  <path d="M 180,510 C 227,582 225,672 192,716" fill="none" stroke="#174F17" stroke-width="1.8"/>
+  <rect x="-17" y="722" width="370" height="16" rx="5" fill="#2E7A2E" opacity="0.28" stroke="#2E7A2E" stroke-width="1.2"/>
+  <text x="168" y="733.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK GREEN — Bulb  (garlic shape, ~2" wide × 2.2" tall)</text>
+  <ellipse cx="400" cy="528" rx="34" ry="24" fill="#3A8070" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="468" cy="528" rx="28" ry="20" fill="#3A8070" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="400" cy="595" rx="30" ry="22" fill="#3A8070" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="468" cy="595" rx="34" ry="25" fill="#3A8070" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="342" y="626" width="184" height="16" rx="5" fill="#3A8070" opacity="0.28" stroke="#3A8070" stroke-width="1.2"/>
+  <text x="434" y="637.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK TEAL — Body Spots  ×4</text>
+  <ellipse cx="578" cy="548" rx="28" ry="34" fill="#D93030" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="652" cy="548" rx="28" ry="34" fill="#D93030" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="536" y="586" width="159" height="16" rx="5" fill="#D93030" opacity="0.28" stroke="#D93030" stroke-width="1.2"/>
+  <text x="615" y="597.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">RED — Eyes  ×2  (0.6")</text>
+  <ellipse cx="750" cy="595" rx="50" ry="72" fill="#E8F8F0" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="664" y="671" width="172" height="16" rx="5" fill="#E8F8F0" opacity="0.28" stroke="#E8F8F0" stroke-width="1.2"/>
+  <text x="750" y="682.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Belly  (1"×1.5")</text>
+  <line x1="28" y1="742" x2="788" y2="742" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="758" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">SMALL  —  pupils, toe nubs</text>
+  <ellipse cx="115" cy="840" rx="14" ry="14" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="190" cy="840" rx="14" ry="14" fill="#1A1A1A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="85" y="858" width="133" height="16" rx="5" fill="#1A1A1A" opacity="0.28" stroke="#1A1A1A" stroke-width="1.2"/>
+  <text x="152" y="869.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">BLACK — Pupils  ×2</text>
+  <ellipse cx="330" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="366" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="402" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="438" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="474" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="510" cy="840" rx="14" ry="14" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="395" y="858" width="229" height="16" rx="5" fill="#5BBFAA" opacity="0.28" stroke="#5BBFAA" stroke-width="1.2"/>
+  <text x="510" y="869.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">TEAL — Toe Nubs  ×6  (3 per foot)</text>
+  <line x1="28" y1="892" x2="788" y2="892" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
+  <text x="408" y="902" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">ASSEMBLED — how the pieces look when put together</text>
+  <rect x="300" y="912" width="216" height="128" rx="6" fill="#F8F8F8" stroke="#DDD" stroke-width="1.5"/>
+  <ellipse cx="408" cy="990" rx="41" ry="35" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="408" cy="952" rx="31" ry="31" fill="#5BBFAA" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="398" cy="946" rx="6" ry="8" fill="#D93030" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <ellipse cx="420" cy="946" rx="6" ry="8" fill="#D93030" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <path d="M 383,989 C 395,989 403,984 403,978 C 403,970 398,963 392,957 C 386,951 383,949 383,949 C 383,949 380,951 374,957 C 368,963 363,970 363,978 C 363,984 371,989 383,989 Z" fill="#2E7A2E" stroke="#222" stroke-width="2.5"/>
+
+  <text x="408" y="1044" text-anchor="middle"
+        font-family="Arial" font-size="7.5" fill="#CCC">Print at 100% · 96 px = 1 inch · Pokemon puppet craft</text>
+</svg>
