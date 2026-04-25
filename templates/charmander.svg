@@ -18,9 +18,9 @@
   <ellipse cx="165" cy="620" rx="100" ry="122" fill="#FDECC8" stroke="#222" stroke-width="2.5" opacity="1"/>
   <rect x="79" y="746" width="172" height="16" rx="5" fill="#FDECC8" opacity="0.28" stroke="#FDECC8" stroke-width="1.2"/>
   <text x="165" y="757.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Belly  (2"×2.5")</text>
-  <path d="M 370,480 C 440,500 460,660 390,720 C 360,730 320,680 340,540 C 350,500 370,480 Z" fill="#E8732A" stroke="#222" stroke-width="2.5"/>
-  <rect x="304" y="735" width="172" height="16" rx="5" fill="#E8732A" opacity="0.28" stroke="#E8732A" stroke-width="1.2"/>
-  <text x="390" y="746.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">ORANGE — Tail  (1"×2.5")</text>
+  <path d="M 333,718 C 385,718 423,656 417,580 C 411,512 369,472 329,490 C 305,504 307,532 327,546 C 347,560 357,656 295,718 Z" fill="#E8732A" stroke="#222" stroke-width="2.5"/>
+  <rect x="257" y="723" width="236" height="16" rx="5" fill="#E8732A" opacity="0.28" stroke="#E8732A" stroke-width="1.2"/>
+  <text x="375" y="734.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">ORANGE — Tail  (upward hook shape)</text>
   <path d="M 540,450 C 595,490 595,580 540,605 C 485,580 485,490 540,450 Z" fill="#FFD84D" stroke="#222" stroke-width="2.5"/>
   <path d="M 540,450 C 570,465 570,510 540,520 C 510,510 510,465 540,450 Z" fill="#D93030" stroke="#222" stroke-width="2.5"/>
   <rect x="454" y="610" width="172" height="16" rx="5" fill="#FFD84D" opacity="0.28" stroke="#FFD84D" stroke-width="1.2"/>

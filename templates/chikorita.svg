@@ -15,7 +15,7 @@
   <text x="590" y="411.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">LIGHT GREEN — Head  (3")</text>
   <line x1="28" y1="468" x2="788" y2="468" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
   <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  big head leaf (dark green), collar leaves, belly</text>
-  <ellipse cx="185" cy="600" rx="74" ry="118" fill="#3A7A2A" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <path d="M 185.0,718.0 C 257.0,667.4 224.6,575.4 185.0,488.0 C 145.4,575.4 113.0,667.4 185.0,718.0 Z" fill="#3A7A2A" stroke="#222" stroke-width="2.5"/>
   <rect x="64" y="722" width="242" height="16" rx="5" fill="#3A7A2A" opacity="0.28" stroke="#3A7A2A" stroke-width="1.2"/>
   <text x="185" y="733.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">DARK GREEN — Head Leaf  (1.5"×2.5")</text>
   <ellipse cx="370" cy="570" rx="38" ry="58" fill="#3A7A2A" stroke="#222" stroke-width="2.5" opacity="1"/>

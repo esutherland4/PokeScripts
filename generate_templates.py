@@ -259,17 +259,17 @@ def charmander():
     s += el(belly_cx, belly_cy, 100, 122, CRM)
     s += swatch(belly_cx, belly_cy + 126, "CREAM — Belly  (2\"×2.5\")", CRM)
 
-    # Tail: tapered oval, angled ~1\"×2.5\"
-    # Using a rotated ellipse approximated with a path
-    tcx, tcy = 370, 600
+    # Tail: upward-curving hook — Charmander's tail sweeps up at the tip
+    tcx, tcy = 355, 608
     tail_d = (
-        f"M {tcx},{tcy - 120} "
-        f"C {tcx + 70},{tcy - 100} {tcx + 90},{tcy + 60} {tcx + 20},{tcy + 120} "
-        f"C {tcx - 10},{tcy + 130} {tcx - 50},{tcy + 80} {tcx - 30},{tcy - 60} "
-        f"C {tcx - 20},{tcy - 100} {tcx},{tcy - 120} Z"
+        f"M {tcx - 22},{tcy + 110} "
+        f"C {tcx + 30},{tcy + 110} {tcx + 68},{tcy + 48} {tcx + 62},{tcy - 28} "
+        f"C {tcx + 56},{tcy - 96} {tcx + 14},{tcy - 136} {tcx - 26},{tcy - 118} "
+        f"C {tcx - 50},{tcy - 104} {tcx - 48},{tcy - 76} {tcx - 28},{tcy - 62} "
+        f"C {tcx - 8},{tcy - 48} {tcx + 2},{tcy + 48} {tcx - 60},{tcy + 110} Z"
     )
     s += pth(tail_d, ORG)
-    s += swatch(tcx + 20, tcy + 135, "ORANGE — Tail  (1\"×2.5\")", ORG)
+    s += swatch(tcx + 20, tcy + 115, "ORANGE — Tail  (upward hook shape)", ORG)
 
     # Flame: yellow teardrop blob
     fx, fy = 540, 530
@@ -790,8 +790,8 @@ def chikorita():
     s += divider(468)
     s += row_label(486, "MEDIUM  —  big head leaf (dark green), collar leaves, belly")
 
-    # Head leaf: large dark-green oval ~1.5\"×2.5\"
-    s += el(185, 600, 74, 118, DGN)
+    # Head leaf: proper leaf shape pointing upward ~1.5\"×2.5\"
+    s += leaf_path(185, 718, 185, 488, 72, DGN)
     s += swatch(185, 722, "DARK GREEN — Head Leaf  (1.5\"×2.5\")", DGN)
 
     # Collar leaves: 3 smaller ovals
@@ -1047,10 +1047,13 @@ def torchic():
     s += el(385, 600, 95, 118, CRM)
     s += swatch(385, 722, "CREAM — Belly  (2\"×2.4\")", CRM)
 
-    # Beak: two yellow triangles (upper + lower)
-    s += poly([(560, 570), (620, 570), (590, 612)], YEL)    # upper
-    s += poly([(568, 614), (612, 614), (590, 638)], YEL)    # lower
-    s += swatch(590, 644, "YELLOW — Beak  ×2  (upper & lower triangle)", YEL)
+    # Beak: single rounded stubby beak shape
+    beak_d = (
+        f"M 554,580 C 558,564 622,564 626,580 "
+        f"C 628,598 610,626 590,634 C 570,626 552,598 554,580 Z"
+    )
+    s += pth(beak_d, YEL)
+    s += swatch(590, 640, "YELLOW — Beak  (short rounded beak)", YEL)
 
     # Feet: yellow rounded shapes
     s += el(700, 610, 42, 24, YEL)
@@ -1423,9 +1426,9 @@ def tepig():
     s += divider(468)
     s += row_label(486, "MEDIUM  —  snout (cream, BIG round), belly (cream), ears, tail")
 
-    # Snout: cream large round circle
-    s += circ(205, 598, 115, CRM)
-    s += swatch(205, 717, "CREAM — Snout  (2.4\" round circle)  KEY FEATURE", CRM)
+    # Snout: cream large round circle — Tepig's most distinctive feature
+    s += circ(205, 598, 125, CRM)
+    s += swatch(205, 727, "CREAM — Snout  (2.6\" round circle)  KEY FEATURE", CRM)
 
     # Belly: cream oval
     s += el(420, 600, 88, 112, CRM)
@@ -1512,12 +1515,10 @@ def oshawott():
         f"C 360,572 384,548 420,548 Z"
     )
     s += pth(scalchop_d, BRN)
-    # Scallop ridges
-    for i in range(3):
-        angle = -30 + i * 30
-        import math
-        rx2 = 56 + i * 0
-        s += el(420, 598, 55 - i*12, 50 - i*14, "none", BRN, 1.5)
+    # Scalchop ridge lines — 3 lines radiating from base like a scallop shell fan
+    s += pth(f"M 420,648 C 420,622 420,588 420,548", "none", "#5A3018", 1.8)
+    s += pth(f"M 420,648 C 408,624 396,598 400,558", "none", "#5A3018", 1.8)
+    s += pth(f"M 420,648 C 432,624 444,598 440,558", "none", "#5A3018", 1.8)
     s += swatch(420, 652, "BROWN — Scalchop  (scallop on belly)", BRN)
 
     # Ears: dark navy pointed ovals

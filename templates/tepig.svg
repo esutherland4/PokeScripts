@@ -15,9 +15,9 @@
   <text x="590" y="418.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">ORANGE-RED — Head  (3")</text>
   <line x1="28" y1="468" x2="788" y2="468" stroke="#E8E8E8" stroke-width="1" stroke-dasharray="5,4"/>
   <text x="408" y="486" text-anchor="middle" font-family="Arial,Helvetica" font-size="8.5" font-weight="normal" fill="#AAAAAA">MEDIUM  —  snout (cream, BIG round), belly (cream), ears, tail</text>
-  <ellipse cx="205" cy="598" rx="115" ry="115" fill="#FDECC8" stroke="#222" stroke-width="2.5" opacity="1"/>
-  <rect x="46" y="717" width="319" height="16" rx="5" fill="#FDECC8" opacity="0.28" stroke="#FDECC8" stroke-width="1.2"/>
-  <text x="205" y="728.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Snout  (2.4" round circle)  KEY FEATURE</text>
+  <ellipse cx="205" cy="598" rx="125" ry="125" fill="#FDECC8" stroke="#222" stroke-width="2.5" opacity="1"/>
+  <rect x="46" y="727" width="319" height="16" rx="5" fill="#FDECC8" opacity="0.28" stroke="#FDECC8" stroke-width="1.2"/>
+  <text x="205" y="738.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Snout  (2.6" round circle)  KEY FEATURE</text>
   <ellipse cx="420" cy="600" rx="88" ry="112" fill="#FDECC8" stroke="#222" stroke-width="2.5" opacity="1"/>
   <rect x="328" y="716" width="184" height="16" rx="5" fill="#FDECC8" opacity="0.28" stroke="#FDECC8" stroke-width="1.2"/>
   <text x="420" y="727.5" text-anchor="middle" font-family="Arial" font-size="9" font-weight="bold" fill="#111">CREAM — Belly  (1.8"×2.3")</text>
